@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "releaseYear": 2021,
+      "displaySize": 6.1,
+      "storage": 128,
+      "price": 999,
+      "imageURL": "https://www.example.com/iphone13pro.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "releaseYear": 2021,
+      "displaySize": 6.8,
+      "storage": 256,
+      "price": 1199,
+      "imageURL": "https://www.example.com/galaxys21ultra.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "releaseYear": 2021,
+      "displaySize": 6.7,
+      "storage": 128,
+      "price": 899,
+      "imageURL": "https://www.example.com/pixel6pro.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "releaseYear": 2021,
+      "displaySize": 6.7,
+      "storage": 256,
+      "price": 969,
+      "imageURL": "https://www.example.com/oneplus9pro.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 11 Ultra",
+      "releaseYear": 2021,
+      "displaySize": 6.81,
+      "storage": 256,
+      "price": 1199,
+      "imageURL": "https://www.example.com/mi11ultra.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Sony",
+      "model": "Xperia 1 III",
+      "releaseYear": 2021,
+      "displaySize": 6.5,
+      "storage": 256,
+      "price": 1299,
+      "imageURL": "https://www.example.com/xperia1iii.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "releaseYear": 2020,
+      "displaySize": 6.58,
+      "storage": 256,
+      "price": 999,
+      "imageURL": "https://www.example.com/p40pro.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "LG",
+      "model": "Wing",
+      "releaseYear": 2020,
+      "displaySize": 6.8,
+      "storage": 128,
+      "price": 999,
+      "imageURL": "https://www.example.com/lgwing.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Razr 5G",
+      "releaseYear": 2020,
+      "displaySize": 6.2,
+      "storage": 128,
+      "price": 1399,
+      "imageURL": "https://www.example.com/motorolarazr5g.jpg"
+    }
+  ]
+  
